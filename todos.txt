@@ -1,0 +1,2 @@
+./index.ts: @todo: Make a TranformedXML work like a train with provided sequience of XSLTs
+./transformedXML.ts: @todo need later to specify the string subtype as a XML string maybe, somehow

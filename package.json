@@ -1,0 +1,17 @@
+{
+  "name": "xml-processing",
+  "version": "1.0.0",
+  "description": "Testing xml processing in NodeJS",
+  "main": "index.ts",
+  "author": "Gadzhiev Islam gadzhievislam.org",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "ts-node index.ts",
+    "server": "ts-node server.ts"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.3.2",
+    "xslt-processor": "^2.0.0"
+  }
+}
